@@ -1,0 +1,12 @@
+# Output products list for <fifomem>
+fifomem.asy
+fifomem.ngc
+fifomem.sym
+fifomem.v
+fifomem.veo
+fifomem.vhd
+fifomem.vho
+fifomem.xco
+fifomem_blk_mem_gen_v2_7_xst_1.ngc_xst.xrpt
+fifomem_flist.txt
+fifomem_xmdf.tcl
