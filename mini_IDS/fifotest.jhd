@@ -1,0 +1,3 @@
+MODULE fifotest
+SUBMODULE dropfifo
+INSTANCE UUT

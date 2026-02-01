@@ -1,0 +1,5 @@
+verilog work "reg9B.vf"
+verilog work "fifomem.v"
+verilog work "dropfifo.vf"
+verilog work "fifotest.ant"
+verilog work "C:/Xilinx/10.1/ISE/verilog/src/glbl.v"
